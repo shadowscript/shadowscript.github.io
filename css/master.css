@@ -37,7 +37,10 @@ p{font-family: 'Chathura', sans-serif;}
 	height: 400px; 
 
 }
-
+#big{
+	color:green;
+	font-size: 40px;
+}
 #shad{
 	font-family: 'Orbitron', sans-serif;
 }
