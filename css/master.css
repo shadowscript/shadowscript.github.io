@@ -33,7 +33,7 @@ p{font-family: 'Chathura', sans-serif;}
 #begin{
 	background-image:url("../assets/images/binaryred.jpg");
 	background-position: center;
-	/*background: fixed;*/
+	background-attachment: fixed;
 	height: 400px; 
 
 }
@@ -48,3 +48,26 @@ p{font-family: 'Chathura', sans-serif;}
 }
 
 #continue{height: 300px;}
+
+#more{
+	background-image: url('../assets/images/binary.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	height: 200px;
+}
+
+#abitmore{
+	height: 300px;
+}
+
+#fourh{
+	float: right;
+	font-size: 40px;
+	font-family: 'Chathura', sans-serif;
+
+}
+
+#footer{
+/*	height: 50px;
+*/	
+}
