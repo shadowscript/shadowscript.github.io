@@ -7,7 +7,10 @@ return cache.addAll([
 './index.html?homescreen=1',
 './?homescreen=1',
 '../css/master.css',
+'../css/semantic.min.css',
 '../js/master.js',
+'../js/semantic.min.js',
+'../js/typed.js',
 '../assets/images/binary.jpg',
 '../assets/images/binaryred.jpg'
 ]);
