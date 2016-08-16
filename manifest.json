@@ -1,0 +1,15 @@
+{
+  "short_name": " Shadowscript",
+  "name": "Shadowscript",
+  "icons": [
+    {
+      "src":"",
+      "sizes": "",
+      "type": "/image/png"
+    }
+  ],
+  "start_url": "",
+  "background_color": "",
+  "theme_color": "",
+  "display": "standalone"
+}
